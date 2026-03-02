@@ -1,0 +1,4 @@
+aiogram==2.25.1
+pymorphy2
+pymorphy2-dicts-ru
+python-dotenv
